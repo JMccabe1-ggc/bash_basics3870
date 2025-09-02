@@ -34,6 +34,7 @@ echo ""
 pixelTotal=$(( $width * $height ))
 echo "Your display has ${pixelTotal} pixels." 
 
+
 # asks user for 2 numbers to divide by and if 2nd number is 0 then says can't divide by 0
 echo "Division"
 echo "Enter number 1: "
@@ -48,3 +49,8 @@ else
     remainder=$((num1 % num2))
     echo "${num1} divided by ${num2} equals ${answer} with a remainder of ${remainder}"
 fi
+
+#division
+echo "Where is the division?"
+echo "Oh it's in the master branch not this 1"
+
