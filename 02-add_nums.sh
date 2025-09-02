@@ -33,3 +33,7 @@ read height
 echo ""
 pixelTotal=$(( $width * $height ))
 echo "Your display has ${pixelTotal} pixels." 
+
+#division
+echo "Where is the division?"
+echo "Oh it's in the master branch not this 1"
